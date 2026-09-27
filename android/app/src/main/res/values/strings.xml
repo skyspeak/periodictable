@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Element Spotter</string>
+    <string name="title_activity_main">Element Spotter</string>
+    <string name="package_name">com.skyspeak.elementspotter</string>
+    <string name="custom_url_scheme">com.skyspeak.elementspotter</string>
+</resources>
